@@ -1,6 +1,7 @@
-- Verifier que les img < 1mo
-- meta description
+- Vérif la différence entre defer et async pour les resources critiques
+- rich snippet
 - screen le snippet
+- meta reseaux sociaux, twitter card, données open graph
 
 optionnel: 
 - balise title
