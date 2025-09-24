@@ -9,4 +9,4 @@ optionnel:
 - structure des titres
 - suppression du jquery et remplacer par une gallerie js
 - minification css / js
-- suppression code inutile dansles fichiers bootstrap
+- suppression code inutile dans les fichiers bootstrap
